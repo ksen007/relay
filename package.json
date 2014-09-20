@@ -1,0 +1,9 @@
+{
+    "name":"relay",
+    "version":"0.1.0",
+    "description":"A relay server on top of websocket.",
+    "dependencies":{
+        "websocket":"*"
+    },
+    "license":"Apache"
+}
